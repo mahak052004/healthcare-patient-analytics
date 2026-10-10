@@ -1,0 +1,29 @@
+doctor_id,specialization,admission_count
+310,General Physician,209
+321,General Physician,201
+302,Pulmonologist,196
+339,Pulmonologist,189
+307,General Physician,185
+301,Pulmonologist,182
+337,Pulmonologist,180
+306,Pulmonologist,171
+325,Pulmonologist,170
+316,Pulmonologist,159
+314,General Physician,151
+322,Pulmonologist,148
+309,Cardiologist,99
+313,Cardiologist,97
+333,Cardiologist,96
+320,Cardiologist,94
+303,Cardiologist,91
+324,Cardiologist,90
+340,Cardiologist,89
+329,Cardiologist,79
+319,Cardiologist,77
+332,Cardiologist,75
+311,Cardiologist,71
+315,Endocrinologist,55
+312,Endocrinologist,44
+318,Endocrinologist,43
+328,Endocrinologist,43
+317,Endocrinologist,40

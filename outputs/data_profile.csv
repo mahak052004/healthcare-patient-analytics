@@ -1,0 +1,6 @@
+table_name,row_count,column_count,duplicate_rows,missing_cells
+patients,1690,8,0,240
+admissions,3324,7,0,0
+vitals,33148,7,0,0
+treatments,8329,6,0,0
+doctors,40,5,0,0
